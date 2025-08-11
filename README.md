@@ -3,13 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Akio;Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg" style="text-decoration:none;outline:none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Airiio;Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://instagram.com/akioxz" style="text-decoration:none;outline:none;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
