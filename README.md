@@ -1,5 +1,4 @@
-# 💫 About Me:
-Title at the top: “🚀 My Web Development Stack” with animated typing text.<br>Four colorful badges (HTML: orange, CSS: blue, React: cyan, Node.js: green).<br>Each badge should have an emoji: 📝 HTML, 🎨 CSS, ⚛ React, 🖥 Node.js.<br>Under each badge, a 1-line friendly description:<br>HTML – “The structure of the web.”<br>CSS – “The style and design.”<br>React – “The dynamic UI builder.”<br>Node.js – “The back-end JavaScript engine.”<br>Make everything center-aligned and visually balanced.<br>Use clean spacing, minimal style, and GitHub-friendly markdown.<br>Add a footer line saying: “✨ I build full-stack web apps with love and coffee ☕.”
+
 
 
 ## 🌐 Socials:
