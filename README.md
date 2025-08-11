@@ -1,12 +1,6 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="airiio banner" width="100%" />
-</p>
-
-<!-- Animated Typing Text -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+airiio;Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+akio;Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
