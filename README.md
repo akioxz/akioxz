@@ -1,17 +1,22 @@
-<h1 align="center"> Akio </h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;I+build+with+HTML%2C+CSS%2C+React%2C+Node.js;Always+learning+new+things+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+airiio;Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://instagram.com/akioxz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@Akioxyz">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
+  </a>
+  <a href="mailto:akiocodm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akioxz) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Akioxyz) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akiocodm@gmail.com) 
+
 
 ---
 
