@@ -1,5 +1,4 @@
-<h2 align="center">Hi, I'm Axel</h2>
-
+<h2 align="center"> Hi I'am Axel
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=Third+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
 </p>
@@ -17,12 +16,10 @@
 </p>
 
 <h1>About Me</h1>
-<p>
-I'm Axel, a third-year BSIT student and an aspiring software engineer who loves building sleek mobile and web apps. Besides coding, I’m really into playing games like Genshin Impact, Honkai Star Rail, Wuthering Waves, and Mobile Legends. These games not only entertain me but also fuel my passion for software development — seeing how complex and polished they are pushes me to sharpen my skills and maybe one day create games or apps that others will enjoy.
+c
 </p>
-<p>
-When I'm not coding or gaming, I love watching anime and random movies — it’s my way to relax and get inspired by different stories and art styles.
-</p>
+
+
 
 <h1>Tech Stack</h1>
 <p>
@@ -40,3 +37,5 @@ When I'm not coding or gaming, I love watching anime and random movies — it’
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
