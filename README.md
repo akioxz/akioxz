@@ -4,7 +4,7 @@
 <br><br>
 
 # AXEL
-4th Year BSIT &nbsp;·&nbsp; Software Engineer in training
+4th Year BSIT Student
 
 [GitHub](https://github.com/akioxz) &nbsp;·&nbsp; [Instagram](https://instagram.com/akioxz) &nbsp;·&nbsp; [TikTok](https://tiktok.com/@Akioxyz) &nbsp;·&nbsp; [Email](mailto:akiocodm@gmail.com)
 
@@ -12,13 +12,21 @@
 
 <br>
 
-`> ABOUT`
+&nbsp;
+<p align="center">
+<sub><b>A B O U T</b></sub>
+</p>
+<br>
 
 Builds clean mobile and web apps, and lately has been learning to adapt AI coding tools into the workflow — using them to move faster without losing the fundamentals. Deep into React, Next.js, and Tailwind, with Figma close by for when the UI needs to look as good as it works. Outside of code, usually watching anime or random movies for inspiration.
 
 <br>
 
-`> BUILDS`
+&nbsp;
+<p align="center">
+<sub><b>B U I L D S</b></sub>
+</p>
+<br>
 
 <div align="center">
 
@@ -30,8 +38,10 @@ Builds clean mobile and web apps, and lately has been learning to adapt AI codin
 
 <br>
 
-`> SKILLS`
-
+&nbsp;
+<p align="center">
+<sub><b>S K I L L S</b></sub>
+</p>
 <br>
 
 <div align="center">
