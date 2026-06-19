@@ -1,46 +1,66 @@
-<h2 align="center"> Hi I'am Axel
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6F00FF&center=true&vCenter=true&width=500&lines=4th+Year+BSIT+Student;Aspiring+Software+Engineer;Mobile+%26+Web+Apps" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://instagram.com/akioxz" style="text-decoration:none;outline:none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@Akioxyz" style="text-decoration:none;outline:none;">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" />
-  </a>
-  <a href="mailto:akiocodm@gmail.com" style="text-decoration:none;outline:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+# Axel
 
-<h1>About Me</h1>
-<p>
-I'm Axel, a 4th-year BSIT student and an aspiring software engineer who loves building sleek mobile and web apps. Besides coding, I’m really into playing games like Genshin Impact, Honkai Star Rail, Wuthering Waves, and Mobile Legends. These games not only entertain me but also fuel my passion for software development — seeing how complex and polished they are pushes me to sharpen my skills and maybe one day create games or apps that others will enjoy.
-</p>
-<p>
-When I'm not coding or gaming, I love watching anime and random movies — it’s my way to relax and get inspired by different stories and art styles.
-</p>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7C5CFC&center=true&vCenter=true&width=480&lines=Aspiring+Software+Engineer;4th+Year+BSIT+Student;Mobile+%26+Web+App+Developer" alt="Typing SVG" />
 
+<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/GitHub-7C5CFC?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/Instagram-7C5CFC?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/TikTok-7C5CFC?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/Email-7C5CFC?style=flat-square&logo=gmail&logoColor=white" /></a>
 
+</div>
 
-<h1>Tech Stack</h1>
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-%23646CFF.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<br>
 
----
+## About
+
+I'm a 4th-year BSIT student and aspiring software engineer who likes building clean mobile and web apps. Outside of code, I'm usually deep in *Genshin Impact*, *Honkai: Star Rail*, *Wuthering Waves*, or *Mobile Legends* — the polish and complexity of these games is honestly half the reason I want to build great software myself. When I'm not coding or gaming, I'm watching anime or random movies for inspiration.
+
+<br>
+
+## Tech Stack
+
+**Languages & Markup**
+<br>
+<img src="https://img.shields.io/badge/HTML5-7C5CFC?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-7C5CFC?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-7C5CFC?style=flat-square&logo=javascript&logoColor=white" />
+
+**Frameworks & Styling**
+<br>
+<img src="https://img.shields.io/badge/React-7C5CFC?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-7C5CFC?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-7C5CFC?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-7C5CFC?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+**Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/Node.js-7C5CFC?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-7C5CFC?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-7C5CFC?style=flat-square&logo=apache&logoColor=white" />
+
+**Tools & Design**
+<br>
+<img src="https://img.shields.io/badge/Git-7C5CFC?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-7C5CFC?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-7C5CFC?style=flat-square&logo=figma&logoColor=white" />
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akioxz&show_icons=true&theme=transparent&hide_border=true&title_color=7C5CFC&icon_color=7C5CFC&text_color=333333" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akioxz&layout=compact&theme=transparent&hide_border=true&title_color=7C5CFC&text_color=333333&langs_count=8" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akioxz&theme=transparent&hide_border=true&ring=7C5CFC&fire=7C5CFC&currStreakLabel=7C5CFC" width="60%" />
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Thanks for stopping by ✦ <img src="https://komarev.com/ghpvc/?username=akioxz&color=7C5CFC&style=flat-square&label=views" /></sub>
+</div>
