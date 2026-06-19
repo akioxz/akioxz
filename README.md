@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Axel banner" />
+<img src="946b395dba7a394b3d1c662fb98cd095.jpg" width="100%" alt="Axel banner" />
 
 <br>
 
