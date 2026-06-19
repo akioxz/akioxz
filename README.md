@@ -5,7 +5,7 @@
 
 <sub><b>P O R T F O L I O</b></sub>
 
-# AXEL
+# `AXEL`
 4th Year BSIT Student &nbsp;·&nbsp; building things, breaking things, learning either way
 
 <br>
@@ -25,7 +25,7 @@
 </p>
 <br>
 
-Builds clean mobile and web apps, and lately has been learning to adapt AI coding tools into the workflow — using Claude, Cursor, Codex, Antigravity IDE, and Stitch to move faster without losing the fundamentals. Deep into React, Next.js, and Tailwind, with Figma close by for when the UI needs to look as good as it works. Outside of code, usually watching anime or random movies for inspiration.
+Full-stack developer focused on mobile and web applications, currently completing a BSIT degree. Works primarily with React, Next.js, and Tailwind, with Figma for interface design. Integrates AI-assisted development tools — including Claude, Cursor, Codex, Antigravity IDE, and Stitch — into the workflow to improve build speed while maintaining strong fundamentals. Outside of development, draws inspiration from anime and film.
 
 <br>
 
