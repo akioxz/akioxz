@@ -3,10 +3,10 @@
 
 <br><br>
 
-<a href="https://github.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
-<a href="https://instagram.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
-<a href="https://tiktok.com/@Akioxyz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=tiktok&logoColor=E63946" /></a>
-<a href="mailto:akiocodm@gmail.com"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=E63946" /></a>
+<a href="https://github.com/akioxz"><img height="48" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
+<a href="https://instagram.com/akioxz"><img height="48" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
+<a href="https://tiktok.com/@Akioxyz"><img height="48" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=tiktok&logoColor=E63946" /></a>
+<a href="mailto:akiocodm@gmail.com"><img height="48" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=E63946" /></a>
 
 </div>
 
