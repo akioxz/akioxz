@@ -8,10 +8,10 @@
 
 <br>
 
-<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/-2D5BFF?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
+<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
+<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=tiktok&logoColor=E63946" /></a>
+<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=E63946" /></a>
 
 </div>
 
