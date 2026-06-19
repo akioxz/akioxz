@@ -50,5 +50,5 @@
 <br><br>
 
 <div align="center">
-<sub>thanks for stopping by</sub>
+<sub></sub>
 </div>
