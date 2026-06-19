@@ -1,40 +1,30 @@
 <div align="center">
 
-<img src="946b395dba7a394b3d1c662fb98cd095.jpg" width="100%" alt="Axel banner" />
+<img src="./banner.jpg" width="100%" alt="Axel banner" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E63946&center=true&vCenter=true&width=480&lines=Axel;Aspiring+Software+Engineer;4th+Year+BSIT+Student" alt="Typing SVG" />
+# AXEL
 
-<br>
+`Lv.04` BSIT &nbsp;·&nbsp; Software Engineer in training
 
-<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=white" width="42" /></a>
-<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/-E63946?style=flat-square&logo=instagram&logoColor=white" width="42" /></a>
-<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/-2D5BFF?style=flat-square&logo=tiktok&logoColor=white" width="42" /></a>
-<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=white" width="42" /></a>
+[ [GitHub](https://github.com/akioxz) ]&nbsp;&nbsp;[ [Instagram](https://instagram.com/akioxz) ]&nbsp;&nbsp;[ [TikTok](https://tiktok.com/@Akioxyz) ]&nbsp;&nbsp;[ [Email](mailto:akiocodm@gmail.com) ]
 
 </div>
 
 <br>
 
-### Hi 👋, I'm Axel
+`> ABOUT`
 
-A 4th-year BSIT student and aspiring software engineer who builds clean mobile and web apps. I love how polished and complex modern games are — it pushes me to level up my own skills.
+Builds clean mobile and web apps, and lately has been learning to adapt AI coding tools into the workflow — using them to move faster without losing the fundamentals. Deep into React, Next.js, and Tailwind — with Figma close by for when the UI needs to look as good as it works.
 
-<details>
-<summary>📌 More about me</summary>
-<br>
+`> STATUS`
 
-- 🎮 Currently playing: *Genshin Impact*, *Honkai: Star Rail*, *Wuthering Waves*, *Mobile Legends*
-- 🎬 Unwinding with anime and random movies for inspiration
-- 🛠️ Into mobile & web development, with an eye for clean UI
-- 🎨 Tools of choice: React, Next.js, Tailwind, Figma
-
-</details>
+**Watching** — anime and random movies, mostly for inspiration
 
 <br>
 
-### 💼 Top Projects
+`> BUILDS`
 
 <div align="center">
 
@@ -46,28 +36,44 @@ A 4th-year BSIT student and aspiring software engineer who builds clean mobile a
 
 <br>
 
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E63946?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-2D5BFF?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1D3557?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-E63946?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-2D5BFF?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-1D3557?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-E63946?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-2D5BFF?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-1D3557?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-E63946?style=flat-square&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-2D5BFF?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-1D3557?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-E63946?style=flat-square&logo=figma&logoColor=white" />
-
-</div>
+`> SKILLS`
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,100:2D5BFF&height=80&section=footer" width="100%" />
-</div>
+`FRONTEND`
+
+<table>
+<tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/><br><sub>HTML5</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/><br><sub>CSS3</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34"/><br><sub>JS</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34"/><br><sub>React</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34"/><br><sub>Next.js</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="34"/><br><sub>Vite</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="34"/><br><sub>Tailwind</sub></td>
+</tr>
+</table>
+
+`BACKEND`
+
+<table>
+<tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34"/><br><sub>Node.js</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/><br><sub>MySQL</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="34"/><br><sub>Apache</sub></td>
+</tr>
+</table>
+
+`TOOLS`
+
+<table>
+<tr>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34"/><br><sub>Git</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34"/><br><sub>GitHub</sub></td>
+<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34"/><br><sub>Figma</sub></td>
+</tr>
+</table>
+
+<br>
+
+<sub>`// thanks for stopping by`</sub>
