@@ -6,7 +6,12 @@
 # AXEL
 4th Year BSIT Student
 
-[GitHub](https://github.com/akioxz) &nbsp;·&nbsp; [Instagram](https://instagram.com/akioxz) &nbsp;·&nbsp; [TikTok](https://tiktok.com/@Akioxyz) &nbsp;·&nbsp; [Email](mailto:akiocodm@gmail.com)
+<br>
+
+<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/-2D5BFF?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
