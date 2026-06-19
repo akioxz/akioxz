@@ -44,7 +44,7 @@ Full-stack developer focused on mobile and web applications, currently completin
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vanillajs,react,vue,nextjs,vite,tailwind,nodejs,express,php,laravel,py,flask,mysql,postgresql,supabase,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,vite,tailwind,nodejs,express,php,laravel,py,flask,mysql,postgresql,supabase,git,github,figma" />
 </div>
 
 <br><br>
