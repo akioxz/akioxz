@@ -18,7 +18,7 @@
 </p>
 <br>
 
-Full-stack developer focused on mobile and web applications, currently completing a BSIT degree. Works primarily with React, Next.js, and Tailwind, with Figma for interface design. Integrates AI-assisted development tools — including Claude, Cursor, Codex, Antigravity IDE, and Stitch — into the workflow to improve build speed while maintaining strong fundamentals. Outside of development, draws inspiration from anime and film.
+4th-year BSIT student focused on full-stack development, building modern web and mobile applications with React, Next.js, React Native, Expo, Supabase, Laravel, and Flask. I enjoy designing and shipping practical systems, from admin dashboards and business platforms to data-driven applications. Alongside software engineering, I'm actively exploring AI-assisted development, prompt engineering, and agentic workflows to better understand how developers can work effectively with AI. Committed to continuous learning, strong engineering fundamentals, and building real-world products.
 
 <br>
 
