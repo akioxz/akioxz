@@ -3,15 +3,17 @@
 
 <br><br>
 
+<sub><b>P O R T F O L I O</b></sub>
+
 # AXEL
-4th Year BSIT Student
+4th Year BSIT Student &nbsp;·&nbsp; building things, breaking things, learning either way
 
 <br>
 
-<a href="https://github.com/akioxz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
-<a href="https://instagram.com/akioxz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
-<a href="https://tiktok.com/@Akioxyz"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=tiktok&logoColor=E63946" /></a>
-<a href="mailto:akiocodm@gmail.com"><img src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=E63946" /></a>
+<a href="https://github.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
+<a href="https://instagram.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
+<a href="https://tiktok.com/@Akioxyz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=tiktok&logoColor=E63946" /></a>
+<a href="mailto:akiocodm@gmail.com"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=gmail&logoColor=E63946" /></a>
 
 </div>
 
@@ -23,7 +25,7 @@
 </p>
 <br>
 
-Builds clean mobile and web apps, and lately has been learning to adapt AI coding tools into the workflow — using them to move faster without losing the fundamentals. Deep into React, Next.js, and Tailwind, with Figma close by for when the UI needs to look as good as it works. Outside of code, usually watching anime or random movies for inspiration.
+Builds clean mobile and web apps, and lately has been learning to adapt AI coding tools into the workflow — using Claude, Cursor, Codex, Antigravity IDE, and Stitch to move faster without losing the fundamentals. Deep into React, Next.js, and Tailwind, with Figma close by for when the UI needs to look as good as it works. Outside of code, usually watching anime or random movies for inspiration.
 
 <br>
 
