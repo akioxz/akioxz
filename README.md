@@ -17,7 +17,7 @@
 
 <h1>About Me</h1>
 <p>
-I'm Axel, a third-year BSIT student and an aspiring software engineer who loves building sleek mobile and web apps. Besides coding, I’m really into playing games like Genshin Impact, Honkai Star Rail, Wuthering Waves, and Mobile Legends. These games not only entertain me but also fuel my passion for software development — seeing how complex and polished they are pushes me to sharpen my skills and maybe one day create games or apps that others will enjoy.
+I'm Axel, a 4th-year BSIT student and an aspiring software engineer who loves building sleek mobile and web apps. Besides coding, I’m really into playing games like Genshin Impact, Honkai Star Rail, Wuthering Waves, and Mobile Legends. These games not only entertain me but also fuel my passion for software development — seeing how complex and polished they are pushes me to sharpen my skills and maybe one day create games or apps that others will enjoy.
 </p>
 <p>
 When I'm not coding or gaming, I love watching anime and random movies — it’s my way to relax and get inspired by different stories and art styles.
