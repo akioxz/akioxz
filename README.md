@@ -1,5 +1,5 @@
 <div align="center">
-<img src="946b395dba7a394b3d1c662fb98cd095.jpg" width="380" alt="Axel banner" />
+<img src="946b395dba7a394b3d1c662fb98cd095.jpg" width="220" alt="Axel banner" />
 
 <br><br>
 
@@ -30,7 +30,6 @@ Builds clean mobile and web apps, and lately has been learning to adapt AI codin
 
 <div align="center">
 
-<a href="https://github.com/akioxz/reson8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akioxz&repo=reson8&hide_border=true&bg_color=1D3557&title_color=E63946&icon_color=2D5BFF&text_color=ffffff" /></a>
 <a href="https://github.com/akioxz/casa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akioxz&repo=casa&hide_border=true&bg_color=1D3557&title_color=E63946&icon_color=2D5BFF&text_color=ffffff" /></a>
 <a href="https://github.com/akioxz/AtelierCarven"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akioxz&repo=AtelierCarven&hide_border=true&bg_color=1D3557&title_color=E63946&icon_color=2D5BFF&text_color=ffffff" /></a>
 
