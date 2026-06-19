@@ -1,14 +1,7 @@
 <div align="center">
-<img src="946b395dba7a394b3d1c662fb98cd095.jpg" width="220" alt="Axel banner" />
+<img src="banner.jpg" width="100%" alt="Axel banner" />
 
 <br><br>
-
-<sub><b>P O R T F O L I O</b></sub>
-
-# `AXEL`
-4th Year BSIT Student &nbsp;·&nbsp; building things, breaking things, learning either way
-
-<br>
 
 <a href="https://github.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=github&logoColor=E63946" /></a>
 <a href="https://instagram.com/akioxz"><img height="32" src="https://img.shields.io/badge/-1D3557?style=flat-square&logo=instagram&logoColor=E63946" /></a>
